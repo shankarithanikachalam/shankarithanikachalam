@@ -3,7 +3,7 @@
 ### 🚀 Frontend Developer | Building Scalable Web Applications
 
 🔭 Currently Building: **Enterprise Job Portal (MERN + Role-Based Auth + Real-Time Features)**  
-🌱 Currently strengthening: Advanced JavaScript, Clean Architecture & Scalable Backend Practices
+🌱 Currently strengthening: Advanced JavaScript, Clean Architecture & Scalable Backend Practices        
 💡 Interested In: Scalable Web Apps, Architecture and Problem Solving  
 💬 Ask me about: React, Node.js, MongoDB, REST APIs  
 📫 Reach me at: shankari.developer@gmail.com  
