@@ -1,4 +1,8 @@
-# Hi 👋 I'm Shankari Thanikachalam
+<h1 align="center">Hi 👋 I'm Shankari</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer" />
+</p>
 
 ### 🚀 Frontend Developer | Building Scalable Web Applications
 
