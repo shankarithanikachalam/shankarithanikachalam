@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer" />
 </p>
 
+<p align="center">
+  🚀 Frontend Developer | Building Scalable Web Applications
+</p>
+
 ### 🚀 Frontend Developer | Building Scalable Web Applications
 
 🔭 Currently Building: **Enterprise Job Portal (MERN + Role-Based Auth + Real-Time Features)**  
