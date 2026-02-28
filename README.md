@@ -66,13 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shankari's GitHub stats]((https://github-readme-stats.vercel.app/api?username=shankarithanikachalam&show_icons=true))  
-
-
----
-
 ## 📈 Current Focus
 
 ✔ Strengthening core concepts
