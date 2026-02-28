@@ -68,16 +68,15 @@
 
 ## 📊 GitHub Stats
 
-![Shankari's GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarithanikachalam&show_icons=true&theme=tokyonight)
+![Shankari's GitHub stats]((https://github-readme-stats.vercel.app/api?username=shankarithanikachalam&show_icons=true))  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarithanikachalam&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📈 Current Focus
 
-✔ Strengthening Data Structures & Algorithms  
-✔ Writing Clean, Scalable Backend Architecture  
+✔ Strengthening core concepts
+✔ Writing Clean, Scalable web Applications 
 ✔ Preparing for Product-Based & MNC Interviews  
 
 ---
