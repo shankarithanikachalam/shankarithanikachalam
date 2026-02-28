@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋 I'm Shankari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer" />
-</p>
-
-<p align="center">
-  🚀 Frontend Developer | Building Scalable Web Applications
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=React+Developer" />
 </p>
 
 ### 🚀 Frontend Developer | Building Scalable Web Applications
